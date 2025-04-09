@@ -1,7 +1,7 @@
 # Chrome-Extension
 Chrome Extension blocking phishing email.
 
-# Phish Detect
+# Phishing Detect
 This is a chrome extension to help alert and warn users if they open up a potential phishing email or browses some malicious url.
 
 ## Installation
